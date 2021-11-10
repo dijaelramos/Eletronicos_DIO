@@ -9,5 +9,5 @@ Projetos Finais da DIO com Java usando API Rest usando Spring WebFlux e usando o
  aws dynamodb list-tables --endpoint-url http://localhost:8000
 
 
-swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html
+swagger: http://localhost:8080/swagger-ui-eletronicos-reactive-api.html
 
